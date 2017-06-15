@@ -1,5 +1,7 @@
 # 发布API服务
+
 由API运营人员发布API服务。
+
 ## API入口
 通过访问www.yonyoucloud.com，单击【云市场】，单击【服务商中心】，发布API服务。
 
