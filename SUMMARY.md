@@ -6,6 +6,7 @@
     * [应用架构](articles/api/1/architecture.md)
 * [购买API服务](articles/api/2-/README.md)
     * [购买API服务](articles/api/2-/purchase_api.md)
-* [发布API服务](articles/api/3-/publish_api.md)
+* [发布API服务](articles/api/3-/README.md)   
+    * [发布API服务](articles/api/3-/publish_api.md)
 
 
