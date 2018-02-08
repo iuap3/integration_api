@@ -63,7 +63,7 @@
 
 
  
-步骤九.打开api文件，修改propertyUrl。此参数是配置HttpClient.properties文件路径（注：示例代码中出现”*******”替换的参数）
+步骤九.打开api文件，修改propertyUrl。此参数是配置HttpClient.properties文件路径（注：示例代码中出现”`*******`”替换的参数）
 
 ![](/articles/api/3-/images/image22.png)
 
