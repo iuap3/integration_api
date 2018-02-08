@@ -45,31 +45,31 @@
 
 
  
-步骤六.新建test包
+步骤六：新建test包
 
 ![](/articles/api/3-/images/image19.png)
 
 
  
-步骤七.打开javaSDK文件夹。将所有api的java文件粘贴到test包下
+步骤七：打开javaSDK文件夹。将所有api的java文件粘贴到test包下
 
 ![](/articles/api/3-/images/image20.png)
 
 
  
-步骤八.导入HttpClient.properties配置文件，此配置文件为线程池参数文件
+步骤八：导入HttpClient.properties配置文件，此配置文件为线程池参数文件
 
 ![](/articles/api/3-/images/image21.png)
 
 
  
-步骤九.打开api文件，修改propertyUrl。此参数是配置HttpClient.properties文件路径（注：示例代码中出现”`*******`”替换的参数）
+步骤九：打开api文件，修改propertyUrl。此参数是配置HttpClient.properties文件路径（注：示例代码中出现”`*******`”替换的参数）
 
 ![](/articles/api/3-/images/image22.png)
 
 
  
-步骤十.修改apicode。目前验证方式有apicode和appkey两种安全验证，其中appkey做了sha数字验签, 根据验证方式修改如下代码：
+步骤十：修改apicode。目前验证方式有apicode和appkey两种安全验证，其中appkey做了sha数字验签, 根据验证方式修改如下代码：
 
 ![](/articles/api/3-/images/image23.png)
 
@@ -81,7 +81,7 @@
 
 
  
-步骤十一.修改调用api的header和表单参数参数
+步骤十一：修改调用api的header和表单参数参数
 
 ![](/articles/api/3-/images/image25.png)
 
